@@ -1,2 +1,4 @@
 #!/bin/bash
+pwd
 echo 'home'
+echo '/2-bring_me_home'
