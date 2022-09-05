@@ -1,2 +1,10 @@
 #!/bin/bash
 less /etc/passwd
+total 16
+drwxr-xr-x 2 root root  98 Sep  5 04:45 .
+drwxr-xr-x 7 root root 153 Sep  5 02:10 ..
+-rw-r--r-- 1 root root   0 Sep  5 04:45 @@
+-rwxr--r-- 1 root root  32 Sep  5 04:00 0-hello_world
+-rwxr--r-- 1 root root  28 Sep  5 04:12 1-confused_smiley
+-rw-r--r-- 1 root root  29 Sep  5 04:41 2-hellofile
+-rw-r--r-- 1 root root   5 Sep  5 03:52 README.md
